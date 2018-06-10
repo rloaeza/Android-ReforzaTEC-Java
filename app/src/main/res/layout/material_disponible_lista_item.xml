@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Large Text"
+        android:id="@+id/abreviatura"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/ovalo_rojo"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Large Text"
+        android:id="@+id/titulo"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_alignBottom="@+id/descargareliminar"
+        android:layout_toLeftOf="@+id/descargareliminar"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/abreviatura"
+        android:layout_toEndOf="@+id/abreviatura"
+        android:layout_marginLeft="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="80dp"
+        android:id="@+id/descargareliminar"
+        android:src="@drawable/ic_file_download_black_24dp"
+        android:background="#FFFFFF"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

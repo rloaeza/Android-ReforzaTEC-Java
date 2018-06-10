@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ReforzaTEC</string>
+    <string name="agregar_eliminar_contenido">Descargar o eliminar materias</string>
+    <string name="comparteme">Comparte esta aplicación</string>
+    <string name="sugerencias">Ayúdanos a mejorar :)</string>
+    <string name="sugerencia">Sus comentarios son importantes para nosotros</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="compartir">Compartir con</string>
+    <string name="compartirTexto">Ahora reforzar tus conocimientos de las materias del TecNM es muy fácil y divertido.\n\n https://play.google.com/store/apps/details?id=com.apps_en_moviles.edu.reforzatec</string>
+    <string name="evaluar">Evaluar</string>
+    <string name="no_seleccion">No haz seleccionado nada</string>
+    <string name="correcto">Muy bien, correcto.</string>
+    <string name="incorrecto">Incorrecto.</string>
+    <string name="materialdisponible">Material disponible</string>
+    <string name="de">de</string>
+    <string name="materia_agregada">La materia # ha sido agregada</string>
+    <string name="materia_eliminada">La materia # ha sido removida</string>
+    <string name="cargando">Cargando</string>
+    <string name="cargando_ejercicios">Cargando ejercicios: #1 de #2</string>
+    <string name="no_app_genuina">):  Esta aplicación no es Genuina  :(</string>
+</resources>
