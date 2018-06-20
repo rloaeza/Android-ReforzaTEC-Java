@@ -148,7 +148,7 @@ public class Principal extends AppCompatActivity implements View.OnClickListener
                     public void onClick(DialogInterface dialog, int which) {
                         String userInputValue = userInput.getText().toString();
                         RequestQueue queue = Volley.newRequestQueue(view.getContext());
-                        String url = "http://201.134.65.227/reforzatec/reforzatec.php?Actividad=0&comentario="+userInputValue;
+                        String url = Herramientas.url+"reforzatec.php?Actividad=0&comentario="+userInputValue;
 
 
                         StringRequest stringRequest = new StringRequest(Request.Method.GET, url,

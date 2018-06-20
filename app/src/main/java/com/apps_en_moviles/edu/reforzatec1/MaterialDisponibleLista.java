@@ -50,7 +50,7 @@ public class MaterialDisponibleLista extends AppCompatActivity {
 
 
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "http://201.134.65.227/reforzatec/reforzatec.php?Actividad=1";
+        String url = Herramientas.url+"reforzatec.php?Actividad=1";
         JsonArrayRequest json = new JsonArrayRequest(
                 Request.Method.GET,
                 url,

@@ -1,4 +1,4 @@
-#Sat Jun 09 22:27:40 CDT 2018
-base.0=/Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/build/intermediates/transforms/dexMerger/debug/8
+#Sat Jun 09 22:58:23 CDT 2018
+base.0=/Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/build/intermediates/transforms/dexMerger/debug/8
 path.0=classes.dex
 renamed.0=classes.dex

@@ -20,7 +20,8 @@ public class mostrarPDF extends AppCompatActivity {
 
 
     //private String url = "https://docs.google.com/gview?embedded=true&url=201.134.65.227/reforzatec/materias/";
-    private String url = "http://201.134.65.227/ViewerJS/#../reforzatec/materias/";
+    //private String url = "http://201.134.65.227/ViewerJS/#../reforzatec/materias/";
+    private String url = Herramientas.url+"ViewerJS/#../materias/";
 
     private String idMateria;
     private String nombre;

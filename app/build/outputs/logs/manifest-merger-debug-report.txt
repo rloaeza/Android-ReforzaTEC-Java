@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
 MERGED from [com.android.support:design:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e844af694c4bb82942513c5c854a6d7b/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32ccfd8a18867643f12991923d8dd166/AndroidManifest.xml:17:1-27:12
 MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/a30680acb2d9f5e35ffeb5467e2aad83/AndroidManifest.xml:2:1-14:12
@@ -17,33 +17,33 @@ MERGED from [com.android.support:support-media-compat:24.2.1] /Users/roberto/.gr
 MERGED from [com.android.support:support-core-utils:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/65f1b4288341550ab3f8d7250e62cd1f/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-core-ui:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebdae79b1505007e23591133b7d3bdca/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/a6aead82d4d3b09cb5ac696e893e53d5/AndroidManifest.xml:17:1-27:12
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
 	package
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:3:1-46
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:3:1-46
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:1-61:12
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:1-61:12
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:4:5-65
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:4:5-65
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:4:22-63
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:4:22-63
 uses-permission#android.permission.INTERNET
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:7:1-59:15
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:7:1-59:15
 MERGED from [com.android.support:design:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e844af694c4bb82942513c5c854a6d7b/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e844af694c4bb82942513c5c854a6d7b/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32ccfd8a18867643f12991923d8dd166/AndroidManifest.xml:25:5-20
@@ -69,63 +69,63 @@ MERGED from [com.android.support:support-core-ui:24.2.1] /Users/roberto/.gradle/
 MERGED from [com.android.support:support-compat:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/a6aead82d4d3b09cb5ac696e893e53d5/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/a6aead82d4d3b09cb5ac696e893e53d5/AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:11:5-31
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:11:5-31
 	android:label
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:10:5-37
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:10:5-37
 	android:icon
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:9:5-39
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:9:5-39
 	android:allowBackup
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:8:5-31
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:8:5-31
 	android:theme
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:12:5-36
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:12:5-36
 activity#com.apps_en_moviles.edu.reforzatec1.Principal
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:13:5-22:16
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:13:5-22:16
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:13:15-75
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:13:15-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:17:9-21:25
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:17:9-21:25
 action#android.intent.action.MAIN
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:18:13-65
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:18:13-65
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:18:21-62
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:18:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.apps_en_moviles.edu.reforzatec1.ContenidoMaterial
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:24:5-29:16
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:24:5-29:16
 	android:parentActivityName
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:25:9-83
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:25:9-83
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:24:15-83
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:24:15-83
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:26:9-28:77
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:26:9-28:77
 	android:value
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:28:13-74
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:28:13-74
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:27:13-59
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:27:13-59
 activity#com.apps_en_moviles.edu.reforzatec1.ActividadOpcionMultiple
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:32:5-37:16
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:32:5-37:16
 	android:parentActivityName
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:33:9-91
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:33:9-91
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:32:15-89
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:32:15-89
 activity#com.apps_en_moviles.edu.reforzatec1.MaterialDisponibleLista
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:40:5-45:16
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:40:5-45:16
 	android:parentActivityName
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:41:9-83
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:41:9-83
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:40:15-89
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:40:15-89
 activity#com.apps_en_moviles.edu.reforzatec1.mostrarPDF
-ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:49:5-54:16
+ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:49:5-54:16
 	android:parentActivityName
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:50:9-91
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:50:9-91
 	android:name
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml:49:15-76
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml:49:15-76
 uses-sdk
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e844af694c4bb82942513c5c854a6d7b/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e844af694c4bb82942513c5c854a6d7b/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32ccfd8a18867643f12991923d8dd166/AndroidManifest.xml:21:5-23:78
@@ -152,15 +152,15 @@ MERGED from [com.android.support:support-core-ui:24.2.1] /Users/roberto/.gradle/
 MERGED from [com.android.support:support-core-ui:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebdae79b1505007e23591133b7d3bdca/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/a6aead82d4d3b09cb5ac696e893e53d5/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/a6aead82d4d3b09cb5ac696e893e53d5/AndroidManifest.xml:21:5-23:58
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/roberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32ccfd8a18867643f12991923d8dd166/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/src/main/AndroidManifest.xml

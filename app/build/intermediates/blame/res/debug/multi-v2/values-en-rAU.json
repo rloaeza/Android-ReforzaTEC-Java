@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/Users/roberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32ccfd8a18867643f12991923d8dd166/res/values-en-rAU/values-en-rAU.xml",

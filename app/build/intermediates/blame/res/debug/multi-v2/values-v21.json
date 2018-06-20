@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/roberto/_Programacion/Android Studio/ReforzaTEC-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/roberto/_Programacion/AndroidStudio-ReforzaTEC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/roberto/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e844af694c4bb82942513c5c854a6d7b/res/values-v21/values-v21.xml",

@@ -30,6 +30,8 @@ public class Herramientas {
             R.drawable.ovalo_beige
     };
 
+    public static String url = "http://192.168.1.66/reforzatec/";
+
     protected static int getColorOvalo(int id) {
         return fondos[id%fondos.length];
     }

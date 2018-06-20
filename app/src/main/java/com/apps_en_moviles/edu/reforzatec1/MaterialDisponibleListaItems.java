@@ -124,7 +124,7 @@ public class MaterialDisponibleListaItems extends ArrayAdapter<String> {
             snackbar.show();
 
             RequestQueue queue = Volley.newRequestQueue(getContext());
-            String url = "http://201.134.65.227/reforzatec/reforzatec.php?Actividad=2&idMaterias="+ids.get(pos);
+            String url = Herramientas.url+"reforzatec.php?Actividad=2&idMaterias="+ids.get(pos);
 
             JsonArrayRequest json = new JsonArrayRequest(
                     Request.Method.GET,
